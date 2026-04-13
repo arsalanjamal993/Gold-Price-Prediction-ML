@@ -4,8 +4,6 @@
 This repository contains a machine learning implementation designed to forecast monthly gold prices. The project utilizes a time-series forecasting approach, transforming historical price data into a supervised learning problem through the application of lag features. The model is trained on global gold price records spanning from 1833 to early 2026.
 
 ## Technical Specifications
-* **Operating System:** Fedora 43 Workstation
-* **Development Environment:** Dell Latitude E5540
 * **Programming Language:** Python 3.x
 * **Core Libraries:** Pandas, Scikit-Learn, NumPy
 
